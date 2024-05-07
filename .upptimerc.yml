@@ -1,5 +1,5 @@
 owner: UmmItC 
-repo: Upptime
+repo: upptime
 
 sites:
   - name: Blog - Main Server
@@ -14,7 +14,7 @@ sites:
     url: https://sec-incogsearch.org
 status-website:
   cname: status.ummit.dev
-  baseUrl: /Upptime
+  # baseUrl: /Upptime
   logoUrl: https://avatars.githubusercontent.com/u/128139875?v=4
   name: UmmIt
   introTitle: "**UmmIt Status** ALL Server Status."
