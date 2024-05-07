@@ -1,36 +1,26 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: UmmItC 
+repo: Upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: Blog - Main Server
+    url: https://blog.ummit.dev
+  - name: Blog - Cloudflare Page
+    url: https://cf-blog.ummit.dev
+  - name: Blog - Gitlab page
+    url: https://gl-blog.ummit.dev
+  - name: Storage Server
+    url: https://storage.ummit.dev
+  - name: SearXNG Search Engine
+    url: https://sec-incogsearch.org
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.ummit.dev
+  baseUrl: /Upptime
+  logoUrl: https://avatars.githubusercontent.com/u/128139875?v=4
+  name: UmmIt
+  introTitle: "**UmmIt Status** ALL Server Status."
+  introMessage: I Love Open-source.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
