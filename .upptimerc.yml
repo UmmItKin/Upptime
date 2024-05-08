@@ -2,6 +2,8 @@ owner: UmmItC
 repo: Upptime
 
 sites:
+  - name: UmmIt
+    url: https://ummit.dev
   - name: Blog - Main Server
     url: https://blog.ummit.dev
   - name: Blog - Cloudflare Page
@@ -12,11 +14,14 @@ sites:
     url: https://storage.ummit.dev
   - name: SearXNG Search Engine
     url: https://sec-incogsearch.org
+  - name: Piped Video
+    url: https://piped.video
+
 status-website:
   cname: status.ummit.dev
-  baseUrl: /Upptime
+  # baseUrl: /Upptime
   logoUrl: https://avatars.githubusercontent.com/u/128139875?v=4
-  name: UmmIt
+  name: UmmIt - Status page
   introTitle: "**UmmIt Status** ALL Server Status."
   introMessage: I Love Open-source.
   navbar:
@@ -24,3 +29,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
+  favicon: https://avatars.githubusercontent.com/u/128139875?v=4
