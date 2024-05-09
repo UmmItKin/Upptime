@@ -76,19 +76,19 @@
     "url": "https://storage.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/storage.ummit.dev.ico",
     "slug": "storage-server",
-    "status": "down",
-    "uptime": "95.33%",
-    "uptimeDay": "93.51%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "95.33%",
-    "time": 212,
-    "timeDay": 184,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "status": "up",
+    "uptime": "94.98%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "94.98%",
+    "time": 215,
+    "timeDay": 197,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-05-09": 93,
+      "2024-05-09": 103,
       "2024-05-08": 33
     }
   },
@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-09": 1167,
+      "2024-05-09": 1177,
       "2024-05-08": 1440,
       "2024-05-07": 99
     }
