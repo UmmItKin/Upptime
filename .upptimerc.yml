@@ -15,7 +15,7 @@ sites:
   - name: SearXNG Search Engine
     url: https://sec-incogsearch.org
   - name: Piped Video
-    url: https://piped.video
+    url: https://piped.tube
 
 status-website:
   cname: status.ummit.dev
