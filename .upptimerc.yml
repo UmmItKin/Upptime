@@ -12,10 +12,6 @@ sites:
     url: https://gl-blog.ummit.dev
   - name: Storage Server
     url: https://storage.ummit.dev
-  - name: SearXNG Search Engine
-    url: https://sec-incogsearch.org
-  - name: Piped Video
-    url: https://piped.tube
 
 status-website:
   cname: status.ummit.dev
