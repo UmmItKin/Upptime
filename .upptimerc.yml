@@ -4,14 +4,24 @@ repo: Upptime
 sites:
   - name: UmmIt
     url: https://ummit.dev
-  - name: Blog - Main Server
-    url: https://blog.ummit.dev
-  - name: Blog - Cloudflare Page
-    url: https://cf-blog.ummit.dev
-  - name: Blog - Gitlab page
-    url: https://gl-blog.ummit.dev
+
   - name: Storage Server
     url: https://storage.ummit.dev
+
+  - name: Blog - Main Server
+    url: https://blog.ummit.dev
+
+  - name: Blog - Codeberg Page
+    url: https://cb-blog.ummit.dev
+
+  - name: Blog - Cloudflare Page
+    url: https://cf-blog.ummit.dev
+
+  - name: Blog - Gitlab page
+    url: https://gl-blog.ummit.dev
+
+  - name: Blog - Github page
+    url: https://gh-blog.ummit.dev
 
 status-website:
   cname: status.ummit.dev
