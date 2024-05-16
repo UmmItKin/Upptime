@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/storage.ummit.dev.ico",
     "slug": "storage-server",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 226,
     "timeDay": 102,
     "timeWeek": 231,
@@ -62,9 +62,9 @@
     "url": "https://cb-blog.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cb-blog.ummit.dev.ico",
     "slug": "blog-codeberg-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 2617,
     "timeMonth": 2617,
     "timeYear": 2617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "Blog - Cloudflare Page",
