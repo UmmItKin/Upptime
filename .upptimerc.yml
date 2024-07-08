@@ -8,6 +8,8 @@ sites:
     url: https://storage.ummit.dev
   - name: InfoSec
     url: https://infosec.ummit.dev
+  - name: About
+    url: https://about.ummit.dev
   - name: Blog - Main Server
     url: https://blog.ummit.dev
   - name: Blog - Codeberg Page
