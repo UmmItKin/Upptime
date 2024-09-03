@@ -44,36 +44,40 @@
     "url": "https://infosec.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/infosec.ummit.dev.ico",
     "slug": "info-sec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 400,
-    "timeWeek": 428,
-    "timeMonth": 515,
-    "timeYear": 481,
-    "dailyMinutesDown": {}
+    "time": 528,
+    "timeDay": 1810,
+    "timeWeek": 777,
+    "timeMonth": 608,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "About",
     "url": "https://about.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/about.ummit.dev.ico",
     "slug": "about",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 387,
-    "timeWeek": 435,
-    "timeMonth": 413,
-    "timeYear": 417,
-    "dailyMinutesDown": {}
+    "time": 467,
+    "timeDay": 1787,
+    "timeWeek": 779,
+    "timeMonth": 508,
+    "timeYear": 467,
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Blog - Main Server",
@@ -155,18 +159,20 @@
     "url": "https://gl-blog.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gl-blog.ummit.dev.ico",
     "slug": "blog-gitlab-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 430,
-    "timeWeek": 488,
-    "timeMonth": 513,
-    "timeYear": 516,
-    "dailyMinutesDown": {}
+    "time": 537,
+    "timeDay": 1790,
+    "timeWeek": 821,
+    "timeMonth": 604,
+    "timeYear": 537,
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Blog - Github page",
