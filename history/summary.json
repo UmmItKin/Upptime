@@ -24,9 +24,9 @@
     "slug": "storage-server",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 253,
     "timeDay": 275,
@@ -34,7 +34,7 @@
     "timeMonth": 241,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-09-12": 11,
+      "2024-09-12": 20,
       "2024-05-11": 19,
       "2024-05-09": 93,
       "2024-05-08": 33
@@ -65,18 +65,19 @@
     "url": "https://about.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/about.ummit.dev.ico",
     "slug": "about",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 460,
-    "timeDay": 387,
-    "timeWeek": 426,
-    "timeMonth": 518,
-    "timeYear": 460,
+    "time": 458,
+    "timeDay": 363,
+    "timeWeek": 415,
+    "timeMonth": 513,
+    "timeYear": 458,
     "dailyMinutesDown": {
+      "2024-09-12": 0,
       "2024-09-03": 19
     }
   },
@@ -87,9 +88,9 @@
     "slug": "blog-main-server",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 273,
     "timeDay": 305,
@@ -97,7 +98,6 @@
     "timeMonth": 251,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2024-09-12": 11,
       "2024-05-31": 92,
       "2024-05-25": 32
     }
@@ -183,9 +183,9 @@
     "slug": "blog-github-page",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 142,
     "timeDay": 188,
@@ -193,7 +193,7 @@
     "timeMonth": 168,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-09-12": 11
+      "2024-09-12": 20
     }
   }
 ]
