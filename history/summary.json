@@ -78,7 +78,7 @@
     "url": "https://cb-blog.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cb-blog.ummit.dev.ico",
     "slug": "blog-codeberg-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.58%",
@@ -90,6 +90,7 @@
     "timeMonth": 2575,
     "timeYear": 3581,
     "dailyMinutesDown": {
+      "2024-09-29": 0,
       "2024-09-27": 675,
       "2024-09-26": 372,
       "2024-09-25": 3,
