@@ -22,9 +22,9 @@
     "url": "https://infosec.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/infosec.ummit.dev.ico",
     "slug": "info-sec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 481,
     "timeYear": 502,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-09-03": 20
     }
   },
@@ -159,9 +160,9 @@
     "url": "https://gl-blog.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gl-blog.ummit.dev.ico",
     "slug": "blog-gitlab-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -171,6 +172,7 @@
     "timeMonth": 520,
     "timeYear": 533,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-09-03": 19
     }
   }
