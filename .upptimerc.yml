@@ -4,8 +4,6 @@ repo: Upptime
 sites:
   - name: UmmIt
     url: https://ummit.dev
-  - name: InfoSec
-    url: https://infosec.ummit.dev
   - name: Links
     url: https://links.ummit.dev
   - name: Blog - Main Server (Github page)
@@ -14,8 +12,6 @@ sites:
     url: https://cb-blog.ummit.dev
   - name: Blog - Cloudflare Page
     url: https://cf-blog.ummit.dev
-  - name: Blog - Gitlab page
-    url: https://gl-blog.ummit.dev
 
 status-website:
   cname: status.ummit.dev
