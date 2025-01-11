@@ -22,18 +22,20 @@
     "url": "https://links.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/links.ummit.dev.ico",
     "slug": "links",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 366,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 433,
-    "dailyMinutesDown": {}
+    "time": 432,
+    "timeDay": 325,
+    "timeWeek": 398,
+    "timeMonth": 412,
+    "timeYear": 432,
+    "dailyMinutesDown": {
+      "2025-01-11": 0
+    }
   },
   {
     "name": "Blog - Main Server (Github page)",
