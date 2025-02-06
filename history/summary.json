@@ -4,19 +4,19 @@
     "url": "https://ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ummit.dev.ico",
     "slug": "umm-it",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 158,
-    "timeWeek": 154,
-    "timeMonth": 134,
+    "timeDay": 195,
+    "timeWeek": 163,
+    "timeMonth": 137,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-02-06": 0
+      "2025-02-06": 21
     }
   },
   {
