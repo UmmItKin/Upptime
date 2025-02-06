@@ -4,7 +4,7 @@
     "url": "https://ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ummit.dev.ico",
     "slug": "umm-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 154,
     "timeMonth": 134,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   },
   {
     "name": "Links",
@@ -62,12 +64,12 @@
     "slug": "blog-codeberg-page",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "95.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "98.87%",
     "time": 3145,
-    "timeDay": 1043,
+    "timeDay": 798,
     "timeWeek": 830,
     "timeMonth": 2177,
     "timeYear": 3145,
