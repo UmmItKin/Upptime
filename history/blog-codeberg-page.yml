@@ -1,7 +1,7 @@
 url: https://cb-blog.ummit.dev
-status: up
-code: 200
-responseTime: 5010
-lastUpdated: 2025-02-17T23:47:25.357Z
+status: down
+code: 500
+responseTime: 10598
+lastUpdated: 2025-02-17T23:56:52.097Z
 startTime: 2024-05-14T01:00:22.795Z
 generator: Upptime <https://github.com/upptime/upptime>
