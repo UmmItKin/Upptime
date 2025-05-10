@@ -70,17 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cb-blog.ummit.dev.ico",
     "slug": "blog-codeberg-page",
     "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "98.55%",
-    "time": 3336,
-    "timeDay": 856,
-    "timeWeek": 2470,
-    "timeMonth": 3373,
-    "timeYear": 3336,
+    "uptime": "98.56%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "96.23%",
+    "uptimeYear": "98.56%",
+    "time": 3333,
+    "timeDay": 1240,
+    "timeWeek": 1969,
+    "timeMonth": 3403,
+    "timeYear": 3333,
     "dailyMinutesDown": {
+      "2025-05-10": 0,
       "2025-05-09": 67,
       "2025-05-08": 27,
       "2025-05-05": 17,
@@ -156,8 +157,7 @@
       "2024-08-26": 33,
       "2024-08-20": 48,
       "2024-08-12": 18,
-      "2024-07-28": 24,
-      "2024-07-09": 23
+      "2024-07-28": 24
     }
   },
   {
