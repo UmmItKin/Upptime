@@ -26,7 +26,7 @@
     "url": "https://links.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/links.ummit.dev.ico",
     "slug": "links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 208,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2025-06-07": 0,
       "2025-04-16": 261,
       "2025-04-15": 309,
       "2025-01-11": 1009
