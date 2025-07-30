@@ -1,17 +1,11 @@
-owner: UmmItC 
+owner: UmmItKin
 repo: Upptime
 
 sites:
-  - name: UmmIt
-    url: https://ummit.dev
   - name: Links
     url: https://links.ummit.dev
-  - name: Blog - Main Server (Github page)
+  - name: Blog
     url: https://blog.ummit.dev
-  - name: Blog - Codeberg Page
-    url: https://cb-blog.ummit.dev
-  - name: Blog - Cloudflare Page
-    url: https://cf-blog.ummit.dev
 
 status-website:
   cname: status.ummit.dev
