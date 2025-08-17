@@ -4,8 +4,10 @@ repo: Upptime
 sites:
   - name: Links
     url: https://links.ummit.dev
-  - name: Blog
+  - name: Blog (Old with Hugo)
     url: https://blog.ummit.dev
+  - name: Blog (New with Astro)
+    url: https://blog.withkin.me
 
 status-website:
   cname: status.ummit.dev
