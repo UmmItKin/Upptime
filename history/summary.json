@@ -4,18 +4,19 @@
     "url": "https://links.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/links.ummit.dev.ico",
     "slug": "links",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.66%",
     "time": 270,
     "timeDay": 127,
-    "timeWeek": 230,
+    "timeWeek": 242,
     "timeMonth": 183,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2025-08-24": 0,
       "2025-08-15": 25,
       "2025-07-26": 17,
       "2025-07-11": 30,
@@ -38,7 +39,7 @@
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 173,
-    "timeWeek": 293,
+    "timeWeek": 286,
     "timeMonth": 293,
     "timeYear": 293,
     "dailyMinutesDown": {}
@@ -48,17 +49,19 @@
     "url": "https://blog.withkin.me",
     "icon": "https://icons.duckduckgo.com/ip3/blog.withkin.me.ico",
     "slug": "blog-new-with-astro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
     "timeDay": 507,
-    "timeWeek": 546,
+    "timeWeek": 562,
     "timeMonth": 546,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-24": 0
+    }
   }
 ]
