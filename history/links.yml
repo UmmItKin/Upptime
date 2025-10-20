@@ -1,7 +1,7 @@
 url: https://links.ummit.dev
-status: up
-code: 200
-responseTime: 301
-lastUpdated: 2025-10-19T23:13:14.908Z
+status: down
+code: 429
+responseTime: 380
+lastUpdated: 2025-10-20T07:53:42.872Z
 startTime: 2024-09-13T12:11:57.609Z
 generator: Upptime <https://github.com/upptime/upptime>
