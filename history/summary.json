@@ -36,18 +36,20 @@
     "url": "https://blog.ummit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ummit.dev.ico",
     "slug": "blog-old-with-hugo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 207,
-    "timeWeek": 181,
-    "timeMonth": 195,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 265,
+    "timeDay": 178,
+    "timeWeek": 177,
+    "timeMonth": 194,
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Blog (New with Astro)",
