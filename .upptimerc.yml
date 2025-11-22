@@ -8,6 +8,10 @@ sites:
     url: https://blog.ummit.dev
   - name: Blog (New with Astro)
     url: https://blog.withkin.me
+  - name: LKCTF
+    url: https://flag.lamkin.me
+  - name: CTF Flag Generator
+    url: https://flag.withkin.me
 
 status-website:
   cname: status.ummit.dev
