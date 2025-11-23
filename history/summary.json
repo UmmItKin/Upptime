@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.64%",
-    "time": 353,
-    "timeDay": 702,
-    "timeWeek": 417,
-    "timeMonth": 600,
-    "timeYear": 337,
+    "time": 354,
+    "timeDay": 694,
+    "timeWeek": 446,
+    "timeMonth": 603,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2025-11-08": 48,
       "2025-10-20": 48,
@@ -42,11 +42,11 @@
     "uptimeWeek": "98.63%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.90%",
-    "time": 266,
-    "timeDay": 116,
-    "timeWeek": 248,
-    "timeMonth": 212,
-    "timeYear": 266,
+    "time": 265,
+    "timeDay": 133,
+    "timeWeek": 242,
+    "timeMonth": 211,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2025-11-18": 138
     }
@@ -64,8 +64,8 @@
     "uptimeYear": "99.86%",
     "time": 379,
     "timeDay": 332,
-    "timeWeek": 243,
-    "timeMonth": 316,
+    "timeWeek": 253,
+    "timeMonth": 317,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-11-08": 48,
@@ -73,27 +73,6 @@
       "2025-09-01": 18,
       "2025-08-28": 75,
       "2025-08-27": 33
-    }
-  },
-  {
-    "name": "LKCTF",
-    "url": "https://flag.lamkin.me",
-    "icon": "https://icons.duckduckgo.com/ip3/flag.lamkin.me.ico",
-    "slug": "lkctf",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 170,
-    "timeDay": 170,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
-    "dailyMinutesDown": {
-      "2025-11-23": 99,
-      "2025-11-22": 292
     }
   },
   {
@@ -107,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 424,
-    "timeWeek": 424,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "time": 375,
+    "timeDay": 375,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   }
 ]
