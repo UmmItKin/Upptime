@@ -2,12 +2,8 @@ owner: UmmItKin
 repo: Upptime
 
 sites:
-  - name: Links
-    url: https://links.ummit.dev
-  - name: Blog (Old with Hugo)
-    url: https://blog.ummit.dev
-  - name: Blog (New with Astro)
-    url: https://blog.withkin.me
+  - name: Personal website
+    url: https://ummit.dev
   - name: CTF Flag Generator
     url: https://flag.withkin.me
 
