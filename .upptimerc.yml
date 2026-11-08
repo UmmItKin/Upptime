@@ -4,8 +4,6 @@ repo: Upptime
 sites:
   - name: Personal website
     url: https://ummit.dev
-  - name: CTF Flag Generator
-    url: https://flag.withkin.me
 
 status-website:
   cname: status.ummit.dev
@@ -13,7 +11,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/128139875?v=4
   name: UmmIt - Status page
   introTitle: "**UmmIt Status** ALL Server Status."
-  introMessage: I Love Open-source.
+  introMessage: My status page!!!
   navbar:
     - title: Status
       href: /
